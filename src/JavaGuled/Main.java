@@ -15,4 +15,8 @@ public class Main {
         int result = m +g;
         return result;
     }
+    static int mainq(int m, int g){
+        int result = m +g;
+        return result;
+    }
 }
