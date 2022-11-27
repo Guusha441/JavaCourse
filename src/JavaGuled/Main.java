@@ -8,6 +8,7 @@ public class Main {
         int Sum =main(2,5);
         System.out.println(Sum);
         System.out.println("that is the correct answer");
+	    System.out.println("feature ayaan ka update gareeyay");
     }
     static int main(int m, int g){
         int result = m +g;
